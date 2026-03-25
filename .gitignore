@@ -1,0 +1,7 @@
+node_modules/
+.vercel/
+dist/
+coverage/
+*.log
+Thumbs.db
+.DS_Store

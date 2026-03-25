@@ -1,0 +1,3853 @@
+{
+  "items": {
+    "item001": {
+      "nome": "Fralda descartável tamanho RN (1 de 5)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Natural Care",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Mercado Livre"
+      ]
+    },
+    "item002": {
+      "nome": "Fralda descartável tamanho RN (2 de 5)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Natural Care",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Mercado Livre"
+      ]
+    },
+    "item003": {
+      "nome": "Fralda descartável tamanho RN (3 de 5)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Natural Care",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Mercado Livre"
+      ]
+    },
+    "item004": {
+      "nome": "Fralda descartável tamanho RN (4 de 5)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Natural Care",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Mercado Livre"
+      ]
+    },
+    "item005": {
+      "nome": "Fralda descartável tamanho RN (5 de 5)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Natural Care",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Mercado Livre"
+      ]
+    },
+    "item006": {
+      "nome": "Fralda descartável tamanho P (1 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item007": {
+      "nome": "Fralda descartável tamanho P (2 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item008": {
+      "nome": "Fralda descartável tamanho P (3 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item009": {
+      "nome": "Fralda descartável tamanho P (4 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item010": {
+      "nome": "Fralda descartável tamanho P (5 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item011": {
+      "nome": "Fralda descartável tamanho P (6 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item012": {
+      "nome": "Fralda descartável tamanho P (7 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item013": {
+      "nome": "Fralda descartável tamanho P (8 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item014": {
+      "nome": "Fralda descartável tamanho P (9 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item015": {
+      "nome": "Fralda descartável tamanho P (10 de 10)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Confort Sec",
+        "Huggies Tripla Proteção",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ]
+    },
+    "item016": {
+      "nome": "Fralda descartável tamanho M (1 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item017": {
+      "nome": "Fralda descartável tamanho M (2 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item018": {
+      "nome": "Fralda descartável tamanho M (3 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item019": {
+      "nome": "Fralda descartável tamanho M (4 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item020": {
+      "nome": "Fralda descartável tamanho M (5 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item021": {
+      "nome": "Fralda descartável tamanho M (6 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item022": {
+      "nome": "Fralda descartável tamanho M (7 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item023": {
+      "nome": "Fralda descartável tamanho M (8 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item024": {
+      "nome": "Fralda descartável tamanho M (9 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item025": {
+      "nome": "Fralda descartável tamanho M (10 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item026": {
+      "nome": "Fralda descartável tamanho M (11 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item027": {
+      "nome": "Fralda descartável tamanho M (12 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item028": {
+      "nome": "Fralda descartável tamanho M (13 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item029": {
+      "nome": "Fralda descartável tamanho M (14 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item030": {
+      "nome": "Fralda descartável tamanho M (15 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item031": {
+      "nome": "Fralda descartável tamanho M (16 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item032": {
+      "nome": "Fralda descartável tamanho M (17 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item033": {
+      "nome": "Fralda descartável tamanho M (18 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item034": {
+      "nome": "Fralda descartável tamanho M (19 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item035": {
+      "nome": "Fralda descartável tamanho M (20 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item036": {
+      "nome": "Fralda descartável tamanho M (21 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item037": {
+      "nome": "Fralda descartável tamanho M (22 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item038": {
+      "nome": "Fralda descartável tamanho M (23 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item039": {
+      "nome": "Fralda descartável tamanho M (24 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item040": {
+      "nome": "Fralda descartável tamanho M (25 de 25)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ],
+      "prioridade": true
+    },
+    "item041": {
+      "nome": "Fralda descartável tamanho G (1 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item042": {
+      "nome": "Fralda descartável tamanho G (2 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item043": {
+      "nome": "Fralda descartável tamanho G (3 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item044": {
+      "nome": "Fralda descartável tamanho G (4 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item045": {
+      "nome": "Fralda descartável tamanho G (5 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item046": {
+      "nome": "Fralda descartável tamanho G (6 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item047": {
+      "nome": "Fralda descartável tamanho G (7 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item048": {
+      "nome": "Fralda descartável tamanho G (8 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item049": {
+      "nome": "Fralda descartável tamanho G (9 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item050": {
+      "nome": "Fralda descartável tamanho G (10 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item051": {
+      "nome": "Fralda descartável tamanho G (11 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item052": {
+      "nome": "Fralda descartável tamanho G (12 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item053": {
+      "nome": "Fralda descartável tamanho G (13 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item054": {
+      "nome": "Fralda descartável tamanho G (14 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item055": {
+      "nome": "Fralda descartável tamanho G (15 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item056": {
+      "nome": "Fralda descartável tamanho G (16 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item057": {
+      "nome": "Fralda descartável tamanho G (17 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item058": {
+      "nome": "Fralda descartável tamanho G (18 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item059": {
+      "nome": "Fralda descartável tamanho G (19 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item060": {
+      "nome": "Fralda descartável tamanho G (20 de 20)",
+      "categoria": "Fraldas",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers Premium Care",
+        "Huggies Supreme Care"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogaria São Paulo",
+        "Mercado Livre"
+      ],
+      "prioridade": true
+    },
+    "item061": {
+      "nome": "Lenço umedecido (1 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item062": {
+      "nome": "Lenço umedecido (2 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item063": {
+      "nome": "Lenço umedecido (3 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item064": {
+      "nome": "Lenço umedecido (4 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item065": {
+      "nome": "Lenço umedecido (5 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item066": {
+      "nome": "Lenço umedecido (6 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item067": {
+      "nome": "Lenço umedecido (7 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item068": {
+      "nome": "Lenço umedecido (8 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item069": {
+      "nome": "Lenço umedecido (9 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item070": {
+      "nome": "Lenço umedecido (10 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item071": {
+      "nome": "Lenço umedecido (11 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item072": {
+      "nome": "Lenço umedecido (12 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item073": {
+      "nome": "Lenço umedecido (13 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item074": {
+      "nome": "Lenço umedecido (14 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item075": {
+      "nome": "Lenço umedecido (15 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item076": {
+      "nome": "Lenço umedecido (16 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item077": {
+      "nome": "Lenço umedecido (17 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item078": {
+      "nome": "Lenço umedecido (18 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item079": {
+      "nome": "Lenço umedecido (19 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item080": {
+      "nome": "Lenço umedecido (20 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item081": {
+      "nome": "Lenço umedecido (21 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item082": {
+      "nome": "Lenço umedecido (22 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item083": {
+      "nome": "Lenço umedecido (23 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item084": {
+      "nome": "Lenço umedecido (24 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item085": {
+      "nome": "Lenço umedecido (25 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item086": {
+      "nome": "Lenço umedecido (26 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item087": {
+      "nome": "Lenço umedecido (27 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item088": {
+      "nome": "Lenço umedecido (28 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item089": {
+      "nome": "Lenço umedecido (29 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item090": {
+      "nome": "Lenço umedecido (30 de 30)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pampers",
+        "Huggies One & Done",
+        "MamyPoko"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil",
+        "Shopee"
+      ]
+    },
+    "item091": {
+      "nome": "Pomada para assadura (1 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item092": {
+      "nome": "Pomada para assadura (2 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item093": {
+      "nome": "Pomada para assadura (3 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item094": {
+      "nome": "Pomada para assadura (4 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item095": {
+      "nome": "Pomada para assadura (5 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item096": {
+      "nome": "Pomada para assadura (6 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item097": {
+      "nome": "Pomada para assadura (7 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item098": {
+      "nome": "Pomada para assadura (8 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item099": {
+      "nome": "Pomada para assadura (9 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item100": {
+      "nome": "Pomada para assadura (10 de 10)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Bepantol Baby",
+        "Hipoglós",
+        "Desitin"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Drogaria São Paulo",
+        "Amazon"
+      ]
+    },
+    "item101": {
+      "nome": "Termômetro digital",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "G-Tech",
+        "Multilaser",
+        "Omron"
+      ],
+      "lojas": [
+        "Amazon",
+        "Mercado Livre"
+      ]
+    },
+    "item102": {
+      "nome": "Sabonete líquido para bebê (1 de 5)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item103": {
+      "nome": "Sabonete líquido para bebê (2 de 5)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item104": {
+      "nome": "Sabonete líquido para bebê (3 de 5)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item105": {
+      "nome": "Sabonete líquido para bebê (4 de 5)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item106": {
+      "nome": "Sabonete líquido para bebê (5 de 5)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item107": {
+      "nome": "Shampoo para bebê (1 de 4)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Drogasil"
+      ]
+    },
+    "item108": {
+      "nome": "Shampoo para bebê (2 de 4)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Drogasil"
+      ]
+    },
+    "item109": {
+      "nome": "Shampoo para bebê (3 de 4)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Drogasil"
+      ]
+    },
+    "item110": {
+      "nome": "Shampoo para bebê (4 de 4)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Drogasil"
+      ]
+    },
+    "item111": {
+      "nome": "Creme hidratante para bebê (1 de 3)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item112": {
+      "nome": "Creme hidratante para bebê (2 de 3)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item113": {
+      "nome": "Creme hidratante para bebê (3 de 3)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Granado Bebê"
+      ],
+      "lojas": [
+        "Natura",
+        "Amazon"
+      ]
+    },
+    "item114": {
+      "nome": "Óleo corporal para bebê (1 de 2)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Drogaria São Paulo"
+      ]
+    },
+    "item115": {
+      "nome": "Óleo corporal para bebê (2 de 2)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Mamãe Bebê Natura",
+        "Johnsons Baby"
+      ],
+      "lojas": [
+        "Natura",
+        "Drogaria São Paulo"
+      ]
+    },
+    "item116": {
+      "nome": "Hastes flexíveis bebê (1 de 3)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Johnsons",
+        "Cremer",
+        "Needs"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Amazon"
+      ]
+    },
+    "item117": {
+      "nome": "Hastes flexíveis bebê (2 de 3)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Johnsons",
+        "Cremer",
+        "Needs"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Amazon"
+      ]
+    },
+    "item118": {
+      "nome": "Hastes flexíveis bebê (3 de 3)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Johnsons",
+        "Cremer",
+        "Needs"
+      ],
+      "lojas": [
+        "Drogasil",
+        "Amazon"
+      ]
+    },
+    "item119": {
+      "nome": "Algodão (1 de 6)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Needs",
+        "York"
+      ],
+      "lojas": [
+        "Drogarias",
+        "Mercado Livre"
+      ]
+    },
+    "item120": {
+      "nome": "Algodão (2 de 6)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Needs",
+        "York"
+      ],
+      "lojas": [
+        "Drogarias",
+        "Mercado Livre"
+      ]
+    },
+    "item121": {
+      "nome": "Algodão (3 de 6)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Needs",
+        "York"
+      ],
+      "lojas": [
+        "Drogarias",
+        "Mercado Livre"
+      ]
+    },
+    "item122": {
+      "nome": "Algodão (4 de 6)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Needs",
+        "York"
+      ],
+      "lojas": [
+        "Drogarias",
+        "Mercado Livre"
+      ]
+    },
+    "item123": {
+      "nome": "Algodão (5 de 6)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Needs",
+        "York"
+      ],
+      "lojas": [
+        "Drogarias",
+        "Mercado Livre"
+      ]
+    },
+    "item124": {
+      "nome": "Algodão (6 de 6)",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Needs",
+        "York"
+      ],
+      "lojas": [
+        "Drogarias",
+        "Mercado Livre"
+      ]
+    },
+    "item125": {
+      "nome": "Kit higiene para bebê",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Fisher Price",
+        "Buba"
+      ],
+      "lojas": [
+        "Mercado Livre",
+        "Amazon"
+      ]
+    },
+    "item126": {
+      "nome": "Kit manicure para bebê",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Safety 1st"
+      ],
+      "lojas": [
+        "Amazon",
+        "Mercado Livre"
+      ]
+    },
+    "item127": {
+      "nome": "Aspirador nasal",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Chicco",
+        "Lillo"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item128": {
+      "nome": "Massageador de gengiva",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lillo",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item129": {
+      "nome": "Álcool em gel",
+      "categoria": "Higiene e Cuidados",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Asseptgel",
+        "Needs"
+      ],
+      "lojas": [
+        "Drogasil"
+      ]
+    },
+    "item130": {
+      "nome": "Body manga curta (1 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item131": {
+      "nome": "Body manga curta (2 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item132": {
+      "nome": "Body manga curta (3 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item133": {
+      "nome": "Body manga curta (4 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item134": {
+      "nome": "Body manga curta (5 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item135": {
+      "nome": "Body manga curta (6 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item136": {
+      "nome": "Body manga curta (7 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item137": {
+      "nome": "Body manga curta (8 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item138": {
+      "nome": "Body manga longa (1 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item139": {
+      "nome": "Body manga longa (2 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item140": {
+      "nome": "Body manga longa (3 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item141": {
+      "nome": "Body manga longa (4 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item142": {
+      "nome": "Body manga longa (5 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item143": {
+      "nome": "Body manga longa (6 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item144": {
+      "nome": "Calça/mijão (1 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "Riachuelo"
+      ]
+    },
+    "item145": {
+      "nome": "Calça/mijão (2 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "Riachuelo"
+      ]
+    },
+    "item146": {
+      "nome": "Calça/mijão (3 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "Riachuelo"
+      ]
+    },
+    "item147": {
+      "nome": "Calça/mijão (4 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "Riachuelo"
+      ]
+    },
+    "item148": {
+      "nome": "Calça/mijão (5 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "Riachuelo"
+      ]
+    },
+    "item149": {
+      "nome": "Calça/mijão (6 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "Riachuelo"
+      ]
+    },
+    "item150": {
+      "nome": "Macacão longo (1 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item151": {
+      "nome": "Macacão longo (2 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item152": {
+      "nome": "Macacão longo (3 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item153": {
+      "nome": "Macacão longo (4 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item154": {
+      "nome": "Macacão longo (5 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item155": {
+      "nome": "Macacão longo (6 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item156": {
+      "nome": "Macacão longo (7 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item157": {
+      "nome": "Macacão longo (8 de 8)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Carters",
+        "Renner"
+      ]
+    },
+    "item158": {
+      "nome": "Macaquinho/jardineira (1 de 4)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item159": {
+      "nome": "Macaquinho/jardineira (2 de 4)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item160": {
+      "nome": "Macaquinho/jardineira (3 de 4)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item161": {
+      "nome": "Macaquinho/jardineira (4 de 4)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Pulla Bulla"
+      ],
+      "lojas": [
+        "Riachuelo",
+        "Amazon"
+      ]
+    },
+    "item162": {
+      "nome": "Pijama (1 de 5)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item163": {
+      "nome": "Pijama (2 de 5)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item164": {
+      "nome": "Pijama (3 de 5)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item165": {
+      "nome": "Pijama (4 de 5)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item166": {
+      "nome": "Pijama (5 de 5)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Carters",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item167": {
+      "nome": "Casaquinho (1 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Tip Top",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Renner",
+        "Riachuelo"
+      ]
+    },
+    "item168": {
+      "nome": "Casaquinho (2 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Tip Top",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Renner",
+        "Riachuelo"
+      ]
+    },
+    "item169": {
+      "nome": "Casaquinho (3 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Tip Top",
+        "Hering Kids"
+      ],
+      "lojas": [
+        "Renner",
+        "Riachuelo"
+      ]
+    },
+    "item170": {
+      "nome": "Meias (1 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lupo Baby",
+        "Pimpolho"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item171": {
+      "nome": "Meias (2 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lupo Baby",
+        "Pimpolho"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item172": {
+      "nome": "Meias (3 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lupo Baby",
+        "Pimpolho"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item173": {
+      "nome": "Meias (4 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lupo Baby",
+        "Pimpolho"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item174": {
+      "nome": "Meias (5 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lupo Baby",
+        "Pimpolho"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item175": {
+      "nome": "Meias (6 de 6)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Lupo Baby",
+        "Pimpolho"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item176": {
+      "nome": "Touca (1 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item177": {
+      "nome": "Touca (2 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item178": {
+      "nome": "Touca (3 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item179": {
+      "nome": "Luvinhas (1 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item180": {
+      "nome": "Luvinhas (2 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item181": {
+      "nome": "Luvinhas (3 de 3)",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Pimpolho",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item182": {
+      "nome": "Saída maternidade",
+      "categoria": "Roupinhas (06 meses)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Noruega Baby",
+        "Tip Top"
+      ],
+      "lojas": [
+        "Amazon",
+        "lojas especializadas"
+      ]
+    },
+    "item183": {
+      "nome": "Toalha com capuz (1 de 5)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten",
+        "Dohler"
+      ],
+      "lojas": [
+        "Amazon",
+        "Havan"
+      ]
+    },
+    "item184": {
+      "nome": "Toalha com capuz (2 de 5)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten",
+        "Dohler"
+      ],
+      "lojas": [
+        "Amazon",
+        "Havan"
+      ]
+    },
+    "item185": {
+      "nome": "Toalha com capuz (3 de 5)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten",
+        "Dohler"
+      ],
+      "lojas": [
+        "Amazon",
+        "Havan"
+      ]
+    },
+    "item186": {
+      "nome": "Toalha com capuz (4 de 5)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten",
+        "Dohler"
+      ],
+      "lojas": [
+        "Amazon",
+        "Havan"
+      ]
+    },
+    "item187": {
+      "nome": "Toalha com capuz (5 de 5)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten",
+        "Dohler"
+      ],
+      "lojas": [
+        "Amazon",
+        "Havan"
+      ]
+    },
+    "item188": {
+      "nome": "Toalha fralda (1 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item189": {
+      "nome": "Toalha fralda (2 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item190": {
+      "nome": "Toalha fralda (3 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item191": {
+      "nome": "Toalha fralda (4 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item192": {
+      "nome": "Toalha fralda (5 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item193": {
+      "nome": "Toalha fralda (6 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item194": {
+      "nome": "Toalha fralda (7 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item195": {
+      "nome": "Toalha fralda (8 de 8)",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item196": {
+      "nome": "Banheira para bebê",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Burigotto",
+        "Galzerano"
+      ],
+      "lojas": [
+        "Amazon",
+        "Magazine Luiza"
+      ]
+    },
+    "item197": {
+      "nome": "Rede/almofada de banho",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Clingo"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item198": {
+      "nome": "Trocador",
+      "categoria": "Banho",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item199": {
+      "nome": "Panos de boca (1 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item200": {
+      "nome": "Panos de boca (2 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item201": {
+      "nome": "Panos de boca (3 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item202": {
+      "nome": "Panos de boca (4 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item203": {
+      "nome": "Panos de boca (5 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item204": {
+      "nome": "Panos de boca (6 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item205": {
+      "nome": "Panos de boca (7 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item206": {
+      "nome": "Panos de boca (8 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item207": {
+      "nome": "Panos de boca (9 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item208": {
+      "nome": "Panos de boca (10 de 10)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item209": {
+      "nome": "Fralda de ombro (1 de 5)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item210": {
+      "nome": "Fralda de ombro (2 de 5)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item211": {
+      "nome": "Fralda de ombro (3 de 5)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item212": {
+      "nome": "Fralda de ombro (4 de 5)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item213": {
+      "nome": "Fralda de ombro (5 de 5)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item214": {
+      "nome": "Babadores (1 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item215": {
+      "nome": "Babadores (2 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item216": {
+      "nome": "Babadores (3 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item217": {
+      "nome": "Babadores (4 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item218": {
+      "nome": "Babadores (5 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item219": {
+      "nome": "Babadores (6 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item220": {
+      "nome": "Babadores (7 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item221": {
+      "nome": "Babadores (8 de 8)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item222": {
+      "nome": "Mamadeiras (1 de 4)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Philips Avent",
+        "MAM"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil"
+      ]
+    },
+    "item223": {
+      "nome": "Mamadeiras (2 de 4)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Philips Avent",
+        "MAM"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil"
+      ]
+    },
+    "item224": {
+      "nome": "Mamadeiras (3 de 4)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Philips Avent",
+        "MAM"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil"
+      ]
+    },
+    "item225": {
+      "nome": "Mamadeiras (4 de 4)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Philips Avent",
+        "MAM"
+      ],
+      "lojas": [
+        "Amazon",
+        "Drogasil"
+      ]
+    },
+    "item226": {
+      "nome": "Escova para mamadeira (1 de 2)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "MAM",
+        "Chicco"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item227": {
+      "nome": "Escova para mamadeira (2 de 2)",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "MAM",
+        "Chicco"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item228": {
+      "nome": "Aquecedor de mamadeira",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Philips Avent",
+        "Multikids"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item229": {
+      "nome": "Esterilizador de mamadeiras",
+      "categoria": "Amamentação / Alimentação",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Philips Avent"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item230": {
+      "nome": "Bolsa maternidade grande",
+      "categoria": "Passeio / Transporte",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Skip Hop",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item231": {
+      "nome": "Bolsa maternidade pequena",
+      "categoria": "Passeio / Transporte",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Kababy",
+        "Fisher Price"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item232": {
+      "nome": "Frasqueira",
+      "categoria": "Passeio / Transporte",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Kababy",
+        "Skip Hop"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item233": {
+      "nome": "Trocador portátil",
+      "categoria": "Passeio / Transporte",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Skip Hop"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item235": {
+      "nome": "Bolsa Canguru",
+      "categoria": "Passeio / Transporte",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Chicco",
+        "Infantino"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item236": {
+      "nome": "Lençol de berço (1 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item237": {
+      "nome": "Lençol de berço (2 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item238": {
+      "nome": "Lençol de berço (3 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item239": {
+      "nome": "Lençol de berço (4 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item240": {
+      "nome": "Lençol de berço (5 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Papi",
+        "Karsten"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item241": {
+      "nome": "Protetor de colchão (1 de 3)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Ortobom Baby",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item242": {
+      "nome": "Protetor de colchão (2 de 3)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Ortobom Baby",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item243": {
+      "nome": "Protetor de colchão (3 de 3)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Ortobom Baby",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item244": {
+      "nome": "Cobertor/manta (1 de 4)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Corttex",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item245": {
+      "nome": "Cobertor/manta (2 de 4)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Corttex",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item246": {
+      "nome": "Cobertor/manta (3 de 4)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Corttex",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item247": {
+      "nome": "Cobertor/manta (4 de 4)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Corttex",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item248": {
+      "nome": "Cueiro (1 de 3)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item249": {
+      "nome": "Cueiro (2 de 3)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item250": {
+      "nome": "Cueiro (3 de 3)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Cremer",
+        "Papi"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item251": {
+      "nome": "Mosquiteiro",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Clingo"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item252": {
+      "nome": "Ninho",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Fibrasca"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item253": {
+      "nome": "Travesseiro antirrefluxo",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Fibrasca"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item254": {
+      "nome": "Travesseiro antissufocante",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Fibrasca"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item255": {
+      "nome": "Cestos organizadores (1 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Clingo",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item256": {
+      "nome": "Cestos organizadores (2 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Clingo",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item257": {
+      "nome": "Cestos organizadores (3 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Clingo",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item258": {
+      "nome": "Cestos organizadores (4 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Clingo",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item259": {
+      "nome": "Cestos organizadores (5 de 5)",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Clingo",
+        "Buba"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item260": {
+      "nome": "Lixeira antiodor",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Angelcare"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item261": {
+      "nome": "Cesto de roupa",
+      "categoria": "Quarto do Bebê",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Plasútil"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item262": {
+      "nome": "Naninha (1 de 2)",
+      "categoria": "Mimos (Opcional)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Zip Toys"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item263": {
+      "nome": "Naninha (2 de 2)",
+      "categoria": "Mimos (Opcional)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Buba",
+        "Zip Toys"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item264": {
+      "nome": "Móbile de berço",
+      "categoria": "Mimos (Opcional)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Fisher Price",
+        "Tiny Love"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item265": {
+      "nome": "Luz noturna",
+      "categoria": "Mimos (Opcional)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Fisher Price",
+        "Multikids"
+      ],
+      "lojas": [
+        "Amazon"
+      ]
+    },
+    "item266": {
+      "nome": "Porta maternidade",
+      "categoria": "Mimos (Opcional)",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "artesanal / Elo7"
+      ],
+      "lojas": [
+        "Elo7"
+      ]
+    }
+  }
+}
