@@ -22,41 +22,13 @@
     }
 
     body {
-      background:
-        radial-gradient(circle at top left, rgba(255, 215, 228, 0.9), transparent 32%),
-        radial-gradient(circle at top right, rgba(255, 236, 214, 0.8), transparent 28%),
-        linear-gradient(180deg, #fff8fb 0%, #fffdf9 100%);
+      background: #fff8fb;
       color: var(--ink);
     }
 
     .page-shell {
       position: relative;
-    }
-
-    .page-shell::before,
-    .page-shell::after {
-      content: "";
-      position: fixed;
-      z-index: -1;
-      border-radius: 999px;
-      filter: blur(10px);
-      opacity: 0.65;
-    }
-
-    .page-shell::before {
-      top: -90px;
-      left: -90px;
-      width: 240px;
-      height: 240px;
-      background: rgba(255, 210, 226, 0.75);
-    }
-
-    .page-shell::after {
-      right: -70px;
-      top: 180px;
-      width: 220px;
-      height: 220px;
-      background: rgba(255, 234, 211, 0.7);
+      isolation: isolate;
     }
 
     .panel {
@@ -69,21 +41,8 @@
       position: relative;
       overflow: hidden;
       border: 1px solid rgba(232, 93, 140, 0.14);
-      background:
-        linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(255, 244, 248, 0.94)),
-        var(--cream);
+      background: #fffaf6;
       box-shadow: var(--shadow);
-    }
-
-    .hero-card::after {
-      content: "";
-      position: absolute;
-      inset: auto -60px -80px auto;
-      width: 220px;
-      height: 220px;
-      border-radius: 999px;
-      background: radial-gradient(circle, rgba(255, 212, 227, 0.9), transparent 65%);
-      pointer-events: none;
     }
 
     .badge-soft {
@@ -110,7 +69,7 @@
 </head>
 
 <body class="page-shell min-h-screen">
-  <header class="border-b border-[color:var(--line)] bg-white/90">
+  <header class="sticky top-0 z-40 border-b border-[color:var(--line)] bg-white/95 backdrop-blur-sm">
     <div class="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-5 sm:px-6">
       <div class="flex items-center gap-3">
         <div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-rose-50 ring-1 ring-rose-100">
