@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#ffffff" />
   <title>Chá de Bebê da Helena</title>
   <link rel="icon" type="image/png" href="public/images/icon.png" />
   <script src="https://cdn.tailwindcss.com"></script>
@@ -21,7 +22,12 @@
       --shadow: 0 24px 80px rgba(117, 71, 88, 0.14);
     }
 
+    html {
+      background: #ffffff;
+    }
+
     body {
+      margin: 0;
       background: var(--rose-100);
       color: var(--ink);
     }
@@ -70,7 +76,7 @@
 
 <body class="page-shell min-h-screen">
   <header
-    class="sticky top-0 z-40 border-b border-[color:var(--line)] bg-white/95 pt-[env(safe-area-inset-top)] backdrop-blur-sm">
+    class="sticky top-0 z-40 border-b border-[color:var(--line)] bg-white pt-[env(safe-area-inset-top)]">
     <div class="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-5 sm:px-6">
       <div class="flex items-center gap-3">
         <div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-rose-50 ring-1 ring-rose-100">
