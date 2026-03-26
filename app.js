@@ -175,6 +175,7 @@ const elLista = document.getElementById("lista");
 const elEstadoVazio = document.getElementById("estadoVazio");
 const elBusca = document.getElementById("busca");
 const elSomenteDisponiveis = document.getElementById("somenteDisponiveis");
+const elStatusBusca = document.getElementById("statusBusca");
 
 const modalReserva = document.getElementById("modalReserva");
 const modalReservaItem = document.getElementById("modalReservaItem");
@@ -287,6 +288,11 @@ function render() {
 
   if (onlyAvailable) {
     items = items.filter((item) => item.availableQuotas > 0);
+  }
+
+  if (elStatusBusca) {
+    const label = items.length === 1 ? "item encontrado" : "itens encontrados";
+    elStatusBusca.textContent = `${items.length} ${label}`;
   }
 
   elLista.querySelectorAll("[data-item]").forEach((n) => n.remove());
@@ -503,10 +509,10 @@ function renderQuotaList() {
       "rounded-2xl border px-4 py-3 text-left transition " +
       (quota.reservado
         ? isMine
-          ? "border-rose-200 bg-rose-50 text-rose-700 ring-2 ring-rose-100"
+          ? "border-rose-200 bg-rose-50 text-rose-700"
           : "border-slate-200 bg-slate-50 text-slate-400"
         : isSelected
-          ? "border-rose-300 bg-rose-50 text-slate-900 ring-2 ring-rose-100"
+          ? "border-rose-300 bg-rose-50 text-slate-900"
           : "border-[rgba(114,81,91,0.12)] bg-white text-slate-700 hover:border-rose-200 hover:bg-rose-50/60");
 
     if (quota.reservado && !isMine) {
@@ -532,13 +538,13 @@ function renderQuotaList() {
     } else if (isMine) {
       const tag = document.createElement("span");
       tag.className =
-        "inline-flex items-center rounded-full bg-rose-100 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-rose-700";
+        "inline-flex items-center rounded-full border border-rose-200 bg-rose-100 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-rose-700";
       tag.textContent = "Sua";
       label.appendChild(tag);
     } else {
       const tag = document.createElement("span");
       tag.className =
-        "inline-flex items-center rounded-full bg-slate-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-slate-600";
+        "inline-flex items-center rounded-full border border-slate-300 bg-slate-200 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-slate-600";
       tag.textContent = "Reservada";
       label.appendChild(tag);
     }
@@ -624,11 +630,6 @@ formReserva.addEventListener("submit", async (e) => {
 
       return {
         ...current,
-        nome: current?.nome ?? selectedQuota.nome,
-        categoria: current?.categoria ?? currentReserve.categoria,
-        marcas: Array.isArray(current?.marcas) ? current.marcas : (currentReserve.marcas ?? []),
-        lojas: Array.isArray(current?.lojas) ? current.lojas : (currentReserve.lojas ?? []),
-        prioridade: current?.prioridade === true || currentReserve.prioridade === true,
         reservado: true,
         reservadoPor: guestName,
         reserveId: DEVICE_RESERVE_ID,
