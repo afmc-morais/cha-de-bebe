@@ -150,14 +150,14 @@
 
         <div class="panel rounded-[1.75rem] p-5 sm:p-6">
           <p class="text-xs font-semibold uppercase text-rose-500">Como funciona</p>
-          <div class="mt-4 space-y-4 text-sm text-[color:var(--muted)]">
-            <div class="rounded-2xl bg-rose-50/60 px-4 py-3">
+          <div class="mt-4 text-sm text-[color:var(--muted)]">
+            <div class="rounded-2xl bg-rose-50/60 px-4 py-2">
               1. Escolha um item da lista.
             </div>
-            <div class="rounded-2xl bg-white px-4 py-3">
+            <div class="rounded-2xl bg-white px-4 py-2">
               2. Reserve com seu <span class="font-semibold">nome completo</span> para evitar presentes repetidos.
             </div>
-            <div class="rounded-2xl bg-white px-4 py-3">
+            <div class="rounded-2xl bg-white px-4 py-2">
               3. Se possível, avise pelo WhatsApp depois da reserva.
             </div>
           </div>
@@ -170,7 +170,7 @@
         <div>
           <label for="busca" class="text-sm font-semibold text-[color:var(--ink)]">Buscar presente</label>
           <input id="busca" type="text" placeholder="Ex.: fralda, lenço, toalha, mamadeira..."
-            class="input-soft mt-2 w-full rounded-2xl px-4 py-3 text-sm text-[color:var(--ink)] placeholder:text-slate-400" />
+            class="input-soft mt-2 w-full rounded-2xl px-4 py-3 text-base text-[color:var(--ink)] placeholder:text-slate-400 sm:text-sm" />
         </div>
 
         <label
@@ -239,7 +239,7 @@
           <div>
             <label class="text-sm font-medium text-[color:var(--ink)]" for="inputNome">Seu nome completo</label>
             <input id="inputNome" type="text" autocomplete="name" placeholder="Ex.: João Maria da Silva"
-              class="input-soft mt-2 w-full rounded-2xl px-4 py-3 text-sm text-[color:var(--ink)] placeholder:text-slate-400"
+              class="input-soft mt-2 w-full rounded-2xl px-4 py-3 text-base text-[color:var(--ink)] placeholder:text-slate-400 sm:text-sm"
               required maxlength="40" />
             <p id="erroNome" class="mt-2 hidden text-xs text-red-600"></p>
           </div>
