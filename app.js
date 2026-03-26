@@ -173,8 +173,6 @@ const DEVICE_RESERVE_ID = getOrCreateReserveId();
 
 const elLista = document.getElementById("lista");
 const elEstadoVazio = document.getElementById("estadoVazio");
-const elContador = document.getElementById("contador");
-const elStatus = document.getElementById("status");
 const elBusca = document.getElementById("busca");
 const elSomenteDisponiveis = document.getElementById("somenteDisponiveis");
 
@@ -290,15 +288,6 @@ function render() {
   if (onlyAvailable) {
     items = items.filter((item) => item.availableQuotas > 0);
   }
-
-  const totalGroups = groupedItems.length;
-  const totalAvailableQuotas = groupedItems.reduce(
-    (sum, item) => sum + item.availableQuotas,
-    0
-  );
-  elContador.textContent = `${totalGroups} presentes - ${totalAvailableQuotas} cotas disponíveis`;
-
-  elStatus.textContent = q || onlyAvailable ? `${items.length} exibidos` : "";
 
   elLista.querySelectorAll("[data-item]").forEach((n) => n.remove());
 
@@ -687,6 +676,8 @@ onValue(
   },
   (error) => {
     console.error(error);
-    elStatus.textContent = "Erro ao carregar a lista. Verifique o Firebase.";
+    elEstadoVazio.classList.remove("hidden");
+    elEstadoVazio.innerHTML =
+      'Não foi possível carregar a lista agora.<span class="mt-2 block">Verifique o Firebase e tente novamente.</span>';
   }
 );

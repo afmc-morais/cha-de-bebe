@@ -75,8 +75,7 @@
 </head>
 
 <body class="page-shell min-h-screen">
-  <header
-    class="sticky top-0 z-40 border-b border-[color:var(--line)] bg-white pt-[env(safe-area-inset-top)]">
+  <header class="sticky top-0 z-40 border-b border-[color:var(--line)] bg-white pt-[env(safe-area-inset-top)]">
     <div class="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-5 sm:px-6">
       <div class="flex items-center gap-3">
         <div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-rose-50 ring-1 ring-rose-100">
@@ -96,7 +95,7 @@
   </header>
 
   <main class="mx-auto flex w-full max-w-6xl flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
-    <section class="hero-card rounded-[2rem] p-6 sm:p-8">
+    <section class="hero-card rounded-2xl p-6 sm:p-8">
       <div class="grid gap-8 lg:grid-cols-[1.3fr_0.7fr] lg:items-center">
         <div>
           <div
@@ -131,7 +130,7 @@
       </div>
     </section>
 
-    <section class="panel rounded-[2rem] p-5 sm:p-6">
+    <section class="panel rounded-2xl p-5 sm:p-6">
       <div class="grid gap-4 lg:grid-cols-[1fr_auto_auto] lg:items-end">
         <div>
           <label for="busca" class="text-sm font-semibold text-[color:var(--ink)]">Buscar presente</label>
@@ -144,19 +143,10 @@
           <span>Somente disponíveis</span>
           <input id="somenteDisponiveis" type="checkbox" class="h-4 w-4 accent-rose-500" />
         </label>
-
-        <div class="rounded-2xl bg-rose-50 px-4 py-3 text-sm text-rose-700">
-          Itens prioritários aparecem em destaque.
-        </div>
-      </div>
-
-      <div class="mt-4 flex items-center justify-between gap-3 border-t border-[color:var(--line)] pt-4 text-sm">
-        <p id="contador" class="font-medium text-[color:var(--ink)]">0 itens - 0 disponíveis</p>
-        <p id="status" class="text-[color:var(--muted)]"></p>
       </div>
     </section>
 
-    <section class="panel rounded-[2rem] p-4 sm:p-5">
+    <section class="panel rounded-2xl p-4 sm:p-5">
       <div class="flex items-center justify-between">
         <div>
           <p class="text-sm font-semibold uppercase text-rose-500">Presentes</p>
@@ -187,7 +177,7 @@
     <div class="absolute inset-0 bg-slate-900/45"></div>
 
     <div class="relative flex min-h-full items-center justify-center p-3 sm:p-4">
-      <div class="flex max-h-[92vh] w-full max-w-xl flex-col overflow-hidden rounded-[2rem] bg-white shadow-soft">
+      <div class="flex max-h-[92vh] w-full max-w-xl flex-col overflow-hidden rounded-2xl bg-white shadow-soft">
         <div class="border-b border-slate-100 p-6">
           <p class="text-xs font-semibold uppercase text-rose-500">Reservar Presente</p>
           <p id="modalReservaItem" class="mt-2 text-lg text-[color:var(--muted)]"></p>
@@ -229,7 +219,7 @@
     <div class="absolute inset-0 bg-slate-900/45"></div>
 
     <div class="relative flex min-h-full items-center justify-center p-3 sm:p-4">
-      <div class="w-full max-w-md rounded-[2rem] bg-white shadow-soft">
+      <div class="w-full max-w-md rounded-2xl bg-white shadow-soft">
         <div class="border-b border-slate-100 p-6">
           <p class="text-xs font-semibold uppercase text-rose-500">Tudo certo</p>
           <h3 class="mt-2 text-xl font-semibold text-[color:var(--ink)]">Reserva confirmada</h3>
