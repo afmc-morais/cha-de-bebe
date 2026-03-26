@@ -313,7 +313,7 @@ function render() {
     const empty = document.createElement("div");
     empty.dataset.item = "true";
     empty.className =
-      "rounded-[1.5rem] border border-dashed border-rose-200 bg-rose-50/60 p-6 text-sm text-slate-600";
+      "rounded-[1.5rem] border border-dashed border-rose-200 bg-rose-50/60 p-4 text-sm text-slate-600";
     empty.textContent = "Nenhum item encontrado com esses filtros.";
     elLista.appendChild(empty);
     return;
@@ -341,7 +341,7 @@ function render() {
     section.className = "space-y-3";
 
     const header = document.createElement("div");
-    header.className = "flex items-center justify-between gap-3 px-1 pt-2";
+    header.className = "flex items-center justify-between gap-3";
 
     const title = document.createElement("h3");
     title.className = "text-sm font-semibold uppercase text-rose-500";

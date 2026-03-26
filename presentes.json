@@ -1,7 +1,7 @@
 {
   "items": {
     "item001": {
-      "nome": "Fralda descartável tamanho RN (1 de 5)",
+      "nome": "Fralda descartável (tamanho RN) (1 de 5)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -17,7 +17,7 @@
       ]
     },
     "item002": {
-      "nome": "Fralda descartável tamanho RN (2 de 5)",
+      "nome": "Fralda descartável (tamanho RN) (2 de 5)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -33,7 +33,7 @@
       ]
     },
     "item003": {
-      "nome": "Fralda descartável tamanho RN (3 de 5)",
+      "nome": "Fralda descartável (tamanho RN) (3 de 5)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -49,7 +49,7 @@
       ]
     },
     "item004": {
-      "nome": "Fralda descartável tamanho RN (4 de 5)",
+      "nome": "Fralda descartável (tamanho RN) (4 de 5)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -65,7 +65,7 @@
       ]
     },
     "item005": {
-      "nome": "Fralda descartável tamanho RN (5 de 5)",
+      "nome": "Fralda descartável (tamanho RN) (5 de 5)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -81,7 +81,7 @@
       ]
     },
     "item006": {
-      "nome": "Fralda descartável tamanho P (1 de 10)",
+      "nome": "Fralda descartável (tamanho P) (1 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -97,7 +97,7 @@
       ]
     },
     "item007": {
-      "nome": "Fralda descartável tamanho P (2 de 10)",
+      "nome": "Fralda descartável (tamanho P) (2 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -113,7 +113,7 @@
       ]
     },
     "item008": {
-      "nome": "Fralda descartável tamanho P (3 de 10)",
+      "nome": "Fralda descartável (tamanho P) (3 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -129,7 +129,7 @@
       ]
     },
     "item009": {
-      "nome": "Fralda descartável tamanho P (4 de 10)",
+      "nome": "Fralda descartável (tamanho P) (4 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -145,7 +145,7 @@
       ]
     },
     "item010": {
-      "nome": "Fralda descartável tamanho P (5 de 10)",
+      "nome": "Fralda descartável (tamanho P) (5 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -161,7 +161,7 @@
       ]
     },
     "item011": {
-      "nome": "Fralda descartável tamanho P (6 de 10)",
+      "nome": "Fralda descartável (tamanho P) (6 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -177,7 +177,7 @@
       ]
     },
     "item012": {
-      "nome": "Fralda descartável tamanho P (7 de 10)",
+      "nome": "Fralda descartável (tamanho P) (7 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -193,7 +193,7 @@
       ]
     },
     "item013": {
-      "nome": "Fralda descartável tamanho P (8 de 10)",
+      "nome": "Fralda descartável (tamanho P) (8 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -209,7 +209,7 @@
       ]
     },
     "item014": {
-      "nome": "Fralda descartável tamanho P (9 de 10)",
+      "nome": "Fralda descartável (tamanho P) (9 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -225,7 +225,7 @@
       ]
     },
     "item015": {
-      "nome": "Fralda descartável tamanho P (10 de 10)",
+      "nome": "Fralda descartável (tamanho P) (10 de 10)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -241,7 +241,7 @@
       ]
     },
     "item016": {
-      "nome": "Fralda descartável tamanho M (1 de 25)",
+      "nome": "Fralda descartável (tamanho M) (1 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -257,7 +257,7 @@
       "prioridade": true
     },
     "item017": {
-      "nome": "Fralda descartável tamanho M (2 de 25)",
+      "nome": "Fralda descartável (tamanho M) (2 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -273,7 +273,7 @@
       "prioridade": true
     },
     "item018": {
-      "nome": "Fralda descartável tamanho M (3 de 25)",
+      "nome": "Fralda descartável (tamanho M) (3 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -289,7 +289,7 @@
       "prioridade": true
     },
     "item019": {
-      "nome": "Fralda descartável tamanho M (4 de 25)",
+      "nome": "Fralda descartável (tamanho M) (4 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -305,7 +305,7 @@
       "prioridade": true
     },
     "item020": {
-      "nome": "Fralda descartável tamanho M (5 de 25)",
+      "nome": "Fralda descartável (tamanho M) (5 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -321,7 +321,7 @@
       "prioridade": true
     },
     "item021": {
-      "nome": "Fralda descartável tamanho M (6 de 25)",
+      "nome": "Fralda descartável (tamanho M) (6 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -337,7 +337,7 @@
       "prioridade": true
     },
     "item022": {
-      "nome": "Fralda descartável tamanho M (7 de 25)",
+      "nome": "Fralda descartável (tamanho M) (7 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -353,7 +353,7 @@
       "prioridade": true
     },
     "item023": {
-      "nome": "Fralda descartável tamanho M (8 de 25)",
+      "nome": "Fralda descartável (tamanho M) (8 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -369,7 +369,7 @@
       "prioridade": true
     },
     "item024": {
-      "nome": "Fralda descartável tamanho M (9 de 25)",
+      "nome": "Fralda descartável (tamanho M) (9 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -385,7 +385,7 @@
       "prioridade": true
     },
     "item025": {
-      "nome": "Fralda descartável tamanho M (10 de 25)",
+      "nome": "Fralda descartável (tamanho M) (10 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -401,7 +401,7 @@
       "prioridade": true
     },
     "item026": {
-      "nome": "Fralda descartável tamanho M (11 de 25)",
+      "nome": "Fralda descartável (tamanho M) (11 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -417,7 +417,7 @@
       "prioridade": true
     },
     "item027": {
-      "nome": "Fralda descartável tamanho M (12 de 25)",
+      "nome": "Fralda descartável (tamanho M) (12 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -433,7 +433,7 @@
       "prioridade": true
     },
     "item028": {
-      "nome": "Fralda descartável tamanho M (13 de 25)",
+      "nome": "Fralda descartável (tamanho M) (13 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -449,7 +449,7 @@
       "prioridade": true
     },
     "item029": {
-      "nome": "Fralda descartável tamanho M (14 de 25)",
+      "nome": "Fralda descartável (tamanho M) (14 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -465,7 +465,7 @@
       "prioridade": true
     },
     "item030": {
-      "nome": "Fralda descartável tamanho M (15 de 25)",
+      "nome": "Fralda descartável (tamanho M) (15 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -481,7 +481,7 @@
       "prioridade": true
     },
     "item031": {
-      "nome": "Fralda descartável tamanho M (16 de 25)",
+      "nome": "Fralda descartável (tamanho M) (16 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -497,7 +497,7 @@
       "prioridade": true
     },
     "item032": {
-      "nome": "Fralda descartável tamanho M (17 de 25)",
+      "nome": "Fralda descartável (tamanho M) (17 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -513,7 +513,7 @@
       "prioridade": true
     },
     "item033": {
-      "nome": "Fralda descartável tamanho M (18 de 25)",
+      "nome": "Fralda descartável (tamanho M) (18 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -529,7 +529,7 @@
       "prioridade": true
     },
     "item034": {
-      "nome": "Fralda descartável tamanho M (19 de 25)",
+      "nome": "Fralda descartável (tamanho M) (19 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -545,7 +545,7 @@
       "prioridade": true
     },
     "item035": {
-      "nome": "Fralda descartável tamanho M (20 de 25)",
+      "nome": "Fralda descartável (tamanho M) (20 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -561,7 +561,7 @@
       "prioridade": true
     },
     "item036": {
-      "nome": "Fralda descartável tamanho M (21 de 25)",
+      "nome": "Fralda descartável (tamanho M) (21 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -577,7 +577,7 @@
       "prioridade": true
     },
     "item037": {
-      "nome": "Fralda descartável tamanho M (22 de 25)",
+      "nome": "Fralda descartável (tamanho M) (22 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -593,7 +593,7 @@
       "prioridade": true
     },
     "item038": {
-      "nome": "Fralda descartável tamanho M (23 de 25)",
+      "nome": "Fralda descartável (tamanho M) (23 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -609,7 +609,7 @@
       "prioridade": true
     },
     "item039": {
-      "nome": "Fralda descartável tamanho M (24 de 25)",
+      "nome": "Fralda descartável (tamanho M) (24 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -625,7 +625,7 @@
       "prioridade": true
     },
     "item040": {
-      "nome": "Fralda descartável tamanho M (25 de 25)",
+      "nome": "Fralda descartável (tamanho M) (25 de 25)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -641,7 +641,7 @@
       "prioridade": true
     },
     "item041": {
-      "nome": "Fralda descartável tamanho G (1 de 20)",
+      "nome": "Fralda descartável (tamanho G) (1 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -657,7 +657,7 @@
       "prioridade": true
     },
     "item042": {
-      "nome": "Fralda descartável tamanho G (2 de 20)",
+      "nome": "Fralda descartável (tamanho G) (2 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -673,7 +673,7 @@
       "prioridade": true
     },
     "item043": {
-      "nome": "Fralda descartável tamanho G (3 de 20)",
+      "nome": "Fralda descartável (tamanho G) (3 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -689,7 +689,7 @@
       "prioridade": true
     },
     "item044": {
-      "nome": "Fralda descartável tamanho G (4 de 20)",
+      "nome": "Fralda descartável (tamanho G) (4 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -705,7 +705,7 @@
       "prioridade": true
     },
     "item045": {
-      "nome": "Fralda descartável tamanho G (5 de 20)",
+      "nome": "Fralda descartável (tamanho G) (5 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -721,7 +721,7 @@
       "prioridade": true
     },
     "item046": {
-      "nome": "Fralda descartável tamanho G (6 de 20)",
+      "nome": "Fralda descartável (tamanho G) (6 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -737,7 +737,7 @@
       "prioridade": true
     },
     "item047": {
-      "nome": "Fralda descartável tamanho G (7 de 20)",
+      "nome": "Fralda descartável (tamanho G) (7 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -753,7 +753,7 @@
       "prioridade": true
     },
     "item048": {
-      "nome": "Fralda descartável tamanho G (8 de 20)",
+      "nome": "Fralda descartável (tamanho G) (8 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -769,7 +769,7 @@
       "prioridade": true
     },
     "item049": {
-      "nome": "Fralda descartável tamanho G (9 de 20)",
+      "nome": "Fralda descartável (tamanho G) (9 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -785,7 +785,7 @@
       "prioridade": true
     },
     "item050": {
-      "nome": "Fralda descartável tamanho G (10 de 20)",
+      "nome": "Fralda descartável (tamanho G) (10 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -801,7 +801,7 @@
       "prioridade": true
     },
     "item051": {
-      "nome": "Fralda descartável tamanho G (11 de 20)",
+      "nome": "Fralda descartável (tamanho G) (11 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -817,7 +817,7 @@
       "prioridade": true
     },
     "item052": {
-      "nome": "Fralda descartável tamanho G (12 de 20)",
+      "nome": "Fralda descartável (tamanho G) (12 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -833,7 +833,7 @@
       "prioridade": true
     },
     "item053": {
-      "nome": "Fralda descartável tamanho G (13 de 20)",
+      "nome": "Fralda descartável (tamanho G) (13 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -849,7 +849,7 @@
       "prioridade": true
     },
     "item054": {
-      "nome": "Fralda descartável tamanho G (14 de 20)",
+      "nome": "Fralda descartável (tamanho G) (14 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -865,7 +865,7 @@
       "prioridade": true
     },
     "item055": {
-      "nome": "Fralda descartável tamanho G (15 de 20)",
+      "nome": "Fralda descartável (tamanho G) (15 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -881,7 +881,7 @@
       "prioridade": true
     },
     "item056": {
-      "nome": "Fralda descartável tamanho G (16 de 20)",
+      "nome": "Fralda descartável (tamanho G) (16 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -897,7 +897,7 @@
       "prioridade": true
     },
     "item057": {
-      "nome": "Fralda descartável tamanho G (17 de 20)",
+      "nome": "Fralda descartável (tamanho G) (17 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -913,7 +913,7 @@
       "prioridade": true
     },
     "item058": {
-      "nome": "Fralda descartável tamanho G (18 de 20)",
+      "nome": "Fralda descartável (tamanho G) (18 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -929,7 +929,7 @@
       "prioridade": true
     },
     "item059": {
-      "nome": "Fralda descartável tamanho G (19 de 20)",
+      "nome": "Fralda descartável (tamanho G) (19 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -945,7 +945,7 @@
       "prioridade": true
     },
     "item060": {
-      "nome": "Fralda descartável tamanho G (20 de 20)",
+      "nome": "Fralda descartável (tamanho G) (20 de 20)",
       "categoria": "Fraldas",
       "reservado": false,
       "reservadoPor": "",
@@ -3449,6 +3449,23 @@
       ],
       "lojas": [
         "Amazon"
+      ]
+    },
+    "item267": {
+      "nome": "Cadeirinha para carro (0 a 36kg)",
+      "categoria": "Passeio / Transporte",
+      "reservado": false,
+      "reservadoPor": "",
+      "marcas": [
+        "Burigotto",
+        "Cosco",
+        "Safety 1st"
+      ],
+      "lojas": [
+        "Amazon",
+        "Mercado Livre",
+        "Magazine Luiza",
+        "Casas Bahia"
       ]
     },
     "item236": {
